@@ -2,22 +2,22 @@
 <!--More info at -->
 <appotaSDK xmlns="">
   <!--Replace placeholder apiKey with your apiKey in https://developer.appota.com/-->
-  <apiKey>00a62e440ae15861af389c4069068acd053a79932</apiKey>
+  <apiKey>Replace with your apiKey</apiKey>
   <!--Replace placeholder apikeySandbox with your apikeySandbox in https://developer.appota.com/-->
-  <apikeySandbox>c144dc212ff247d3daef97f97c5ea2a40525e6957</apikeySandbox>
+  <apikeySandbox>Replace with your Sanbox ApiKey</apikeySandbox>
   <!--Replace placeholder testSandbox with your option sandbox-->
   <testSandbox>false</testSandbox>
   <!--Replace placeholder notifyUrl with your notify Url-->
-  <notifyUrl>http://api.appota.com/ipn/window_topup_tym</notifyUrl>
+  <notifyUrl>Replace with your notifyUrl</notifyUrl>
   <!--Replace placeholder with your url file created from https://developer.appota.com/sdktool.php-->
-  <configUrl>http://appvn.com/payment-winphone.php</configUrl>
+  <configUrl>Replace with your JSON config url</configUrl>
   <!--Replace placeholder facebook login with your facebook params from http://developers.facebook.com/-->
-  <facebookAppId>475065535871710</facebookAppId>
-  <facebookClientSecret>15ae479395e613d9e402b0655ead545b</facebookClientSecret>
+  <facebookAppId>Replace with facebookAppId</facebookAppId>
+  <facebookClientSecret>Replace with facebookClientSecret</facebookClientSecret>
   <!--Replace placeholder google login with your google params from https://developers.google.com/-->
-  <googleClientID>204148272175-oetjmv7smh7ck2adiqdfcevig3tj9n4c.apps.googleusercontent.com</googleClientID>
-  <googleClientSecret>fNXO-t9vyVPPJyY_1DCXjq3b</googleClientSecret>
+  <googleClientID>Replace with googleClientID</googleClientID>
+  <googleClientSecret>Replace with googleClientSecret</googleClientSecret>
   <!--Replace placeholder twitter login with your twitter params from https://dev.twitter.com/-->
-  <twitterConsumerKey>RtQbByzCFsD8mPv9s0N52g</twitterConsumerKey>
-  <twitterConsumerKeySecret>RnMMa3kzksgvXf5baLYGKBhdE60aUJDAh3IaZSs4RZc</twitterConsumerKeySecret>
+  <twitterConsumerKey>Replace with twitterConsumerKey</twitterConsumerKey>
+  <twitterConsumerKeySecret>Replace with twitterConsumerKeySecret</twitterConsumerKeySecret>
 </appotaSDK>
