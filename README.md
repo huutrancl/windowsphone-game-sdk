@@ -107,8 +107,8 @@
 
 <p>Xem thêm sample code được kèm theo bộ SDK để thêm chi tiết.</p>
 <p>1 số hình ảnh SDK sample:</p>
-<p><img src="Document/1.png" width=250/>&nbsp;<img src="Document/2.png" width=250/>&nbsp;<img src="Document/3.png" width=250/></p>
-<p><img src="Document/4.png" width=250/>&nbsp;<img src="Document/5.png" width=250/>&nbsp;<img src="Document/6.png" width=250/></p>
+<p><img src="Document/1.png" width=230/>&nbsp;<img src="Document/2.png" width=230/>&nbsp;<img src="Document/3.png" width=230/></p>
+<p><img src="Document/4.png" width=230/>&nbsp;<img src="Document/5.png" width=230/>&nbsp;<img src="Document/6.png" width=230/></p>
 
 
 
