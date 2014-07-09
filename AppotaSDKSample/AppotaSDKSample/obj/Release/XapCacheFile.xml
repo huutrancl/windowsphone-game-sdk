@@ -1,0 +1,21 @@
+﻿<xapCache source="D:\AppotaGithub\02. AppotaGameSDK Release\AppotaSDKSample\AppotaSDKSample\Bin\Release\AppotaSDKSample_Release_AnyCPU.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="7/9/2014 3:04:55 PM">
+  <file source="D:\AppotaGithub\02. AppotaGameSDK Release\AppotaSDKSample\AppotaSDKSample\obj\Release\AppotaSDKSample.dll" archivePath="AppotaSDKSample.dll" lastWriteTime="7/9/2014 3:04:26 PM" />
+  <file source="D:\AppotaGithub\02. AppotaGameSDK Release\AppotaSDKSample\AppotaSDKSample\AppotaConfig.xml" archivePath="AppotaConfig.xml" lastWriteTime="7/8/2014 11:13:44 AM" />
+  <file source="D:\AppotaGithub\02. AppotaGameSDK Release\AppotaSDKSample\AppotaSDKSample\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="7/8/2014 11:13:14 AM" />
+  <file source="D:\AppotaGithub\02. AppotaGameSDK Release\AppotaSDKSample\AppotaSDKSample\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="7/8/2014 11:13:14 AM" />
+  <file source="D:\AppotaGithub\02. AppotaGameSDK Release\AppotaSDKSample\AppotaSDKSample\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="7/8/2014 11:13:14 AM" />
+  <file source="D:\AppotaGithub\02. AppotaGameSDK Release\AppotaSDKSample\AppotaSDKSample\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="7/8/2014 11:13:14 AM" />
+  <file source="D:\AppotaGithub\02. AppotaGameSDK Release\AppotaSDKSample\AppotaSDKSample\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="7/8/2014 11:13:14 AM" />
+  <file source="D:\AppotaGithub\02. AppotaGameSDK Release\AppotaSDKSample\AppotaSDKSample\Lib\APTPaymentService.dll" archivePath="Lib\APTPaymentService.dll" lastWriteTime="7/9/2014 2:38:45 PM" />
+  <file source="D:\AppotaGithub\02. AppotaGameSDK Release\AppotaSDKSample\AppotaSDKSample\Lib\Hammock.WindowsPhone.dll" archivePath="Lib\Hammock.WindowsPhone.dll" lastWriteTime="7/8/2014 12:03:05 PM" />
+  <file source="D:\AppotaGithub\02. AppotaGameSDK Release\AppotaSDKSample\AppotaSDKSample\Lib\ICSharpCode.SharpZipLib.WindowsPhone.dll" archivePath="Lib\ICSharpCode.SharpZipLib.WindowsPhone.dll" lastWriteTime="7/8/2014 12:03:05 PM" />
+  <file source="D:\AppotaGithub\02. AppotaGameSDK Release\AppotaSDKSample\AppotaSDKSample\Lib\PayPal.Checkout.SDK-WindowsPhone8.dll" archivePath="Lib\PayPal.Checkout.SDK-WindowsPhone8.dll" lastWriteTime="7/8/2014 12:03:05 PM" />
+  <file source="D:\AppotaGithub\02. AppotaGameSDK Release\AppotaSDKSample\AppotaSDKSample\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="7/9/2014 3:03:22 PM" />
+  <file source="D:\AppotaGithub\02. AppotaGameSDK Release\AppotaSDKSample\AppotaSDKSample\Bin\Release\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="7/8/2014 11:13:14 AM" />
+  <file source="D:\AppotaGithub\02. AppotaGameSDK Release\AppotaSDKSample\AppotaSDKSample\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="7/8/2014 11:13:14 AM" />
+  <file source="D:\AppotaGithub\02. AppotaGameSDK Release\AppotaSDKSample\AppotaSDKSample\Lib\APTPaymentService.dll" archivePath="APTPaymentService.dll" lastWriteTime="7/9/2014 2:38:45 PM" />
+  <file source="D:\AppotaGithub\02. AppotaGameSDK Release\AppotaSDKSample\AppotaSDKSample\Lib\Hammock.WindowsPhone.dll" archivePath="Hammock.WindowsPhone.dll" lastWriteTime="7/8/2014 12:03:05 PM" />
+  <file source="D:\AppotaGithub\02. AppotaGameSDK Release\AppotaSDKSample\AppotaSDKSample\Lib\ICSharpCode.SharpZipLib.WindowsPhone.dll" archivePath="ICSharpCode.SharpZipLib.WindowsPhone.dll" lastWriteTime="7/8/2014 12:03:05 PM" />
+  <file source="D:\AppotaGithub\02. AppotaGameSDK Release\AppotaSDKSample\AppotaSDKSample\Lib\PayPal.Checkout.SDK-WindowsPhone8.dll" archivePath="PayPal.Checkout.SDK-WindowsPhone8.dll" lastWriteTime="7/8/2014 12:03:05 PM" />
+  <file source="D:\AppotaGithub\02. AppotaGameSDK Release\AppotaSDKSample\AppotaSDKSample\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="7/9/2014 3:04:55 PM" />
+</xapCache>
