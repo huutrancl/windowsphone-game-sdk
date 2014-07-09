@@ -81,7 +81,7 @@
 
 <p>Khai báo: AppotaGameSDK gameSDK;</p>
 <p>Khởi tạo: gameSDK = new AppotaGameSDK(<a href="#AppotaSDKCallback">AppotaSDKCallback</a> _callBack);</p>
-<p><img src="Init_SDK.JPG"/></p>
+<p><img src="Document/Init_SDK.JPG"/></p>
 
 <p>Các phương thức SDK hỗ trợ:</p>
 	- gameSDK.ShowUserInfo(); // Show user info UI
